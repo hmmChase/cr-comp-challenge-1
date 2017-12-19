@@ -2,8 +2,7 @@
 
 ## Requirements
 Receate the following static comp
+[Original Comp](images/static-comp-challege-1.jpeg "Original comp")
 
-[Starting Comp](https://github.com/cr-comp-challenge-1/images/static-comp-challege-1.jpeg)
-
-My Version:
-[Reacreated Comp](https://github.com/cr-comp-challenge-1/images/recreated%20comp.png)
+## My redesign
+[Recreated Comp](images/recreated%20comp.png "My redesigned comp")
